@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "337839342021",
+    "firebase_url": "https://wallpaper-6f9a7-default-rtdb.firebaseio.com",
+    "project_id": "wallpaper-6f9a7",
+    "storage_bucket": "wallpaper-6f9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337839342021:android:1c0c59fbf6ae0bf946cbac",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQfP823FJA5fL6NYBQjz2bE2eEivzwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337839342021:android:5a4ea83021cdc7c146cbac",
+        "android_client_info": {
+          "package_name": "com.example.mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQfP823FJA5fL6NYBQjz2bE2eEivzwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337839342021:android:a32f680815b2d7b746cbac",
+        "android_client_info": {
+          "package_name": "com.example.minichat_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQfP823FJA5fL6NYBQjz2bE2eEivzwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337839342021:android:f978f662d20f249846cbac",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQfP823FJA5fL6NYBQjz2bE2eEivzwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337839342021:android:564366152686fe1c46cbac",
+        "android_client_info": {
+          "package_name": "com.example.warcha_final_progect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQfP823FJA5fL6NYBQjz2bE2eEivzwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
